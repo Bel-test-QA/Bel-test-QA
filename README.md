@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJoem1yMnB0NGs2bHU5c3Z5cHhwMHl6Zmo2cnB0dzFiZGVvZnpycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2KRkOVYvi8WfU4/giphy.gif)]
+[![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWowZDlocTcwM2w2YW9rd29pOGlnN3pucGliYnl1YWx0aXhic2I5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aHiv481xki1WdhQonS/giphy.gif)]
 <!--
 **Bel-test-QA/Bel-test-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
