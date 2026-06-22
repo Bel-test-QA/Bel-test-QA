@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" align="center" width="400px" height="60px" alt="Hellow World">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" align="left" width="600px" height="60px" alt="Hellow World">
 </a>
 <h2>
 My name is Anastasia!👋
