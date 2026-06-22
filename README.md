@@ -11,26 +11,24 @@ I'm a junior QA Automation engineer and a certified manual testing specialist. M
 </h2>
 
 <br clear="left"/>
+<a href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true" alt="Tech Stack">
+</a>
+
+<p align="center">
+  <h2> 💻 My Tech Stack </h2>
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=postman,js,py,pycharm,powershell,git,github,figma,gherkin,html,npm,kali,mysql,selenium,vscode,docker)](https://skillicons.dev)
 
 
 
+*   ### **API Automation:**
+*   JavaScript (Advanced scripting: динамический API Chaining, валидация сложных массивов, циклы `forEach`).
+*   **CLI & Reporting (CI/CD Ready):** Newman, кастомные HTML-дашборды (`htmlextra`), Allure Report.
+*   **Security & Performance:** Автоматизация проверок OWASP API Security (уязвимости BOLA, SQL-инъекции, Mass Assignment), Stress Testing (поиск точки отказа сервера через параллельные инстансы Newman).
+*   **Databases:** SQL (сложные выборки, срезы данных, агрегатные функции, многотабличные `JOIN` операции).
+*   **QA Core (База):** Глубокое знание тест-дизайна, методологии BDD (Gherkin), опыт работы с тест-трекерами (Jira) и Swagger/OpenAPI спецификациями.
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif
-
-
-
-<br clear="left"/>
-**Bel-test-QA/Bel-test-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
