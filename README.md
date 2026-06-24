@@ -1,16 +1,20 @@
 <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NydGlidzc5YmthbGk1eXdldnlxbnlhZmZxeGdmMmtrbjdpb2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NydGlidzc5YmthbGk1eXdldnlxbnlhZmZxeGdmMmtrbjdpb2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400px" height="250px" alt="Coding animation">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NydGlidzc5YmthbGk1eXdldnlxbnlhZmZxeGdmMmtrbjdpb2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="left" width="400px" height="250px" alt="Coding animation">
 </a>
-
 <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" align="centre" width="350px" height="60px" alt="Hellow World">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" align="left" width="170px" height="120px" alt="Hellow World">
 </a>
-<h2>
-My name is Anastasia!👋
-I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills. This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
-</h2>
 
-<br clear="right"/>
+---
+
+<h3>
+<strong>My name is Anastasia!👋
+I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills. This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic.<strong>
+</h3>
+<br clear="left"/>
+
+##
+
 <a href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true">
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true" alt="Tech Stack">
 </a>
@@ -51,31 +55,43 @@ I'm a junior QA Automation engineer and a certified manual testing specialist. M
 
 ---
 
-## 📂 Мои Инженерные Проекты (Портфолио)
+## 🛡️ Software Testing Projects
 
-### ⚡ [Фреймворк автотестов API: WMS "Oort Depot"](https://github.com)
+### 🌀 Project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
 *Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).*
 *   **Архитектура фреймворка:** Полный **Zero Hardcode** (динамический подхват и передача токенов и ID по всей цепочке запросов). Интегрирован Postman Mock Server для симуляции внешних интеграций.
-*   **QA Security Audit:** Реализованы автоматические тесты на критические уязвимости (BOLA, SQLi, Broken Auth). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
+*   **QA Security Audit:** Внедрена автоматизированная проверка критических уязвимостей на основе стандартов OWASP API Security Top 10 (включая BOLA, SQLi и Broken Authentication). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
 *   **Инфраструктурные тесты:** Нагрузка сервера до точки отказа (`ECONNRESET`) через параллельный CLI-запуск.
+*   **BDD подход (Gherkin):** Сценарии написаны как исполняемые спецификации (`Given / When / Then`), что делает их прозрачными для бизнеса и готовыми к миграции на Cucumber/SpecFlow.
+*   **Smart Scripting:** Циклы `forEach` на JavaScript для глубокой проверки массивов данных и валидации JSON-схем (Contract Testing на соответствие Swagger).
 *   🔗 **Перейти к проекту:** [wms-oort-depot-automation](https://github.com)
 
-### 📋 [Практика мануального тестирования веб-интерфейсов (ТГУ)](https://github.com)
-*Полный цикл мануального тестирования реального веб-интерфейса, выполненный в рамках УПК.*
-*   **Что внутри:** Разработаны чек-листы, тест-кейсы для сквозных (E2E) сценариев, отчет о результатах тестирования (Test Summary Report). Артефакты и баг-репорты синхронизированы со структурой Jira.
-*   🔗 **Перейти к проекту:** [ui-qa-practice-tgu](https://github.com)
 
-### 🔒 [Дополнительные модули: Безопасность и Базы Данных](https://github.com)
+### 🌐 Project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
+*Комплексное тестирование функционала сервиса регистрации в рамках программы *
+*   **Что внутри:** Разработаны чек-листы, тест-кейсы, отчет о результатах тестирования (Test Summary Report). Артефакты и баг-репорты синхронизированы со структурой Jira.
+*   🔗 **Перейти к проекту:** [ui-manual-qa-tgu](https://github.com)
+
+### 🕵️‍♂️ [Дополнительные модули: Безопасность и ](https://github.com)
 *   **SQL-Practice:** Скрипты с решением сложных задач на тренажерах для валидации данных в БД (работа со срезами, агрегациями и связями таблиц).
 *   **Security Labs:** Практические отчеты по исследованию уязвимостей веб-приложений (OWASP Top 10) в рамках профильного обучения от SkillFactory.
 *   🔗 **Перейти к проекту:** [sql-and-security-labs](https://github.com)
 
+
+Базы Данных
 ---
 
 ## 📫 Как со мной связаться
 *   **Telegram:** [@твой_ник]
 *   **Email:** [твой_email]
 *   **LinkedIn:** [ссылка_на_профиль]
+
+
+
+
+
+
+
 
 
 
