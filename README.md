@@ -8,8 +8,8 @@
 ---
 
 <h3>
-<strong>My name is Anastasia!👋
-I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills. This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.<strong>
+<strong>Меня зовут Анастасия! 👋Я — начинающий инженер по автоматизации тестирования (Junior QA Automation) и сертифицированный специалист по ручному тестированию. Моя главная цель — развивать свои навыки в автоматизации (API и UI). Сейчас я активно изучаю инструменты автоматизации и создаю функциональные пет-проекты для проверки своих навыков на практике. Это портфолио подтверждает мой переход в QA Automation (JavaScript / Postman / Newman и др.) и доказывает, что я не просто следую готовым тест-скриптам, а понимаю архитектуру, логику бэкенда, ограничения производительности и риски безопасности.
+  <strong>
 </h3>
 <br clear="left"/>
 
@@ -47,11 +47,11 @@ I'm a junior QA Automation engineer and a certified manual testing specialist. M
 ---
 ## 🧠 Technical Expertise & Engineering Skills
 
-* **API Automation:** Postman, JavaScript (Advanced scripting: dynamic API chaining, complex array validation, custom helper functions, and `forEach` loops).
-* **CLI & Reporting (CI/CD Ready):** Newman execution, custom HTML dashboards (`htmlextra`), and comprehensive Allure Report integration.
-* **Security & Performance Testing:** Automated checks for OWASP API Security vulnerabilities (BOLA, SQL Injections, Mass Assignment); basic stress testing and breakpoint discovery via parallel Newman instances.
-* **Databases & Data Manipulation:** SQL (advanced querying, data slicing, aggregate functions, and complex multi-table `JOIN` operations).
-* **QA Core & Methodologies:** Deep understanding of test design techniques, BDD methodology (Gherkin), test management tools (Jira), and Swagger / OpenAPI specifications.
+* **API Automation:** Postman, JavaScript (Продвинутый скриптинг: динамическая цепочка запросов (API Chaining), валидация сложных массивов, кастомные вспомогательные функции и циклы `forEach`).
+* **CLI & Reporting (CI/CD Ready):** Запуск через Newman, кастомные HTML-дашборды (`htmlextra`) и комплексная интеграция с Allure Report.
+* **Security & Performance Testing:** Автоматизированные проверки уязвимостей OWASP API Security (BOLA, SQL-инъекции, Mass Assignment); базовое нагрузочное тестирование и поиск «точки отказа» системы через параллельный запуск инстансов Newman.
+* **Databases & Data Manipulation:** SQL (сложные запросы, срезы данных, агрегатные функции и сложные многотабличные операции `JOIN`).
+* **QA Core & Methodologies:** Глубокое понимание техник тест-дизайна, BDD-методологии (Gherkin), инструментов управления тестированием (Jira) и спецификаций Swagger / OpenAPI.
 
 ---
 
@@ -71,22 +71,24 @@ I'm a junior QA Automation engineer and a certified manual testing specialist. M
 
 ### 🌐 Project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
 *Комплексное ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).*
-*   **Что внутри:** Разработаны чек-листы, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report). 
+*   **Что внутри:** Разработаны чек-листы, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report).
+*   **Дополнение:** Защита итоговой проектной работы в виде скрин-каста (.mp4)
 *   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
 
-### 🕵️‍♂️ Cybersecurity Labs: [Web-pentest: penetration Testing | White Hat](https://github.com)
-*   **Что внутри:** Практические отчеты по исследованию уязвимостей веб-приложений и тестам на проникновение (OWASP Top 10) в рамках профильного обучения (SkillFactory).
-*   🔗 **Перейти к проекту:** [web-pentest-cybersecurity-labs](https://github.com)
+### 🕵️‍♂️ Cybersecurity Lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
+*   **Что внутри:** Выполнены лабораторные работы, составлены отчеты по исследованию уязвимостей веб-приложений (OWASP Top 10) и тестам на проникновение в рамках профильного обучения (SkillFactory).
+*   🔗 **Перейти в репозиторий:** [web-pentest-cybersecurity-labs](https://github.com)
 
+### 🗄️ Databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
+*Скрипты со сложными SQL-запросами, демонстрирующие навыки работы с реляционными БД.*
+*   **Что внутри:** Решение комплексных задач на специализированных тренажерах (работа со срезами данных, математические агрегации, многотабличные `JOIN` операции, вложенные запросы).
+*   *   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
 
-Базы Данных
-*   **SQL-Practice:** Скрипты с решением сложных задач на тренажерах для валидации данных в БД (работа со срезами, агрегациями и связями таблиц).
----
 
 ## 📫 Как со мной связаться
-*   **Telegram:** [@твой_ник]
-*   **Email:** [твой_email]
-*   **LinkedIn:** [ссылка_на_профиль]
+*   **Telegram:** [@Cyber_Dynasty]
+*   **Email:** [bel.test.qa@gmail.com]
+*   **LinkedIn:** [(https://www.linkedin.com/in/anastasia-belova-aqa/)]
 
 
 
