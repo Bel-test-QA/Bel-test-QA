@@ -60,25 +60,27 @@ I'm a junior QA Automation engineer and a certified manual testing specialist. M
 ### 🌀 Project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
 *Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).*
 *   **Архитектура фреймворка:** Полный **Zero Hardcode** (динамический подхват и передача токенов и ID по всей цепочке запросов). Интегрирован Postman Mock Server для симуляции внешних интеграций.
-*   **QA Security Audit:** Внедрена автоматизированная проверка критических уязвимостей на основе стандартов OWASP API Security Top 10 (включая BOLA, SQLi и Broken Authentication). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
+*   **QA Security Audit:** Внедрена автоматизированная проверка критических уязвимостей на основе стандартов OWASP API Security Top 10 (включая BOLA, SQLi, Broken Authentication etc.). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
 *   **Инфраструктурные тесты:** Нагрузка сервера до точки отказа (`ECONNRESET`) через параллельный CLI-запуск.
 *   **BDD подход (Gherkin):** Сценарии написаны как исполняемые спецификации (`Given / When / Then`), что делает их прозрачными для бизнеса и готовыми к миграции на Cucumber/SpecFlow.
 *   **Smart Scripting:** Циклы `forEach` на JavaScript для глубокой проверки массивов данных и валидации JSON-схем (Contract Testing на соответствие Swagger).
-*   🔗 **Перейти к проекту:** [wms-oort-depot-automation](https://github.com)
+*   **Reporting:** Генерация кастомных HTML-дашбордов с глубокой аналитикой через htmlextra.
+*   **CI/CD Ready:** Полная автономность коллекции для запуска в пайплайнах.
+*   🔗 **Перейти к проекту:** [api-automation-oort-depot](https://github.com)
 
 
 ### 🌐 Project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
-*Комплексное тестирование функционала сервиса регистрации в рамках программы *
-*   **Что внутри:** Разработаны чек-листы, тест-кейсы, отчет о результатах тестирования (Test Summary Report). Артефакты и баг-репорты синхронизированы со структурой Jira.
-*   🔗 **Перейти к проекту:** [ui-manual-qa-tgu](https://github.com)
+*Комплексное ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).*
+*   **Что внутри:** Разработаны чек-листы, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report). 
+*   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
 
-### 🕵️‍♂️ [Дополнительные модули: Безопасность и ](https://github.com)
-*   **SQL-Practice:** Скрипты с решением сложных задач на тренажерах для валидации данных в БД (работа со срезами, агрегациями и связями таблиц).
-*   **Security Labs:** Практические отчеты по исследованию уязвимостей веб-приложений (OWASP Top 10) в рамках профильного обучения от SkillFactory.
-*   🔗 **Перейти к проекту:** [sql-and-security-labs](https://github.com)
+### 🕵️‍♂️ Cybersecurity Labs: [Web-pentest: penetration Testing | White Hat](https://github.com)
+*   **Что внутри:** Практические отчеты по исследованию уязвимостей веб-приложений и тестам на проникновение (OWASP Top 10) в рамках профильного обучения (SkillFactory).
+*   🔗 **Перейти к проекту:** [web-pentest-cybersecurity-labs](https://github.com)
 
 
 Базы Данных
+*   **SQL-Practice:** Скрипты с решением сложных задач на тренажерах для валидации данных в БД (работа со срезами, агрегациями и связями таблиц).
 ---
 
 ## 📫 Как со мной связаться
