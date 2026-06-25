@@ -1,11 +1,31 @@
-<a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NydGlidzc5YmthbGk1eXdldnlxbnlhZmZxeGdmMmtrbjdpb2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NydGlidzc5YmthbGk1eXdldnlxbnlhZmZxeGdmMmtrbjdpb2gzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" align="left" width="400px" height="250px" alt="Coding animation">
-</a>
-<a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdhNjJheDVzZ3Y4dnk2bDVqdmV5a29iaWV0NTQ3N3c4OGRhc3h6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qo2dupDib32rkTY4hX/giphy.gif" align="left" width="170px" height="120px" alt="Hellow World">
-</a>
+### <h3 align="center">HI, WELCOME TO MY GITHUB PROFILE!
+</h3>
 
 ---
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58AAC4&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=121&lines=I'm+Anastasia%2C;QA+Automation+Engineer;in+the+making." alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <b>in the making...</b>
+<p align="center">
+  <img src="https://postimg.cc" alt="Progress Bar" width="280">
+</p>
+
+
+
+
+
+
+<p align="center">
+  <progress value="75" max="100" style="width: 250px; height: 12px;"></progress>
+</p>
+
+
+
+
+
+
+
 
 <h3>
 <strong>Меня зовут Анастасия! 👋Я — начинающий инженер по автоматизации тестирования (Junior QA Automation) и сертифицированный специалист по ручному тестированию. Моя главная цель — развивать свои навыки в автоматизации (API и UI). Сейчас я активно изучаю инструменты автоматизации и создаю функциональные пет-проекты для проверки своих навыков на практике. Это портфолио подтверждает мой переход в QA Automation (JavaScript / Postman / Newman и др.) и доказывает, что я не просто следую готовым тест-скриптам, а понимаю архитектуру, логику бэкенда, ограничения производительности и риски безопасности.
@@ -89,7 +109,6 @@
 *   **Telegram:** [@Cyber_Dynasty]
 *   **Email:** [bel.test.qa@gmail.com]
 *   **LinkedIn:** [(https://www.linkedin.com/in/anastasia-belova-aqa/)]
-
 
 
 
