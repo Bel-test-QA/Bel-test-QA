@@ -1,50 +1,31 @@
-### <h3 align="center">HI, WELCOME TO MY GITHUB PROFILE!
+### <h3 align="center">👋WELCOME TO MY GITHUB PROFILE!
 </h3>
 
 ---
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58AAC4&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=121&lines=I'm+Anastasia%2C;QA+Automation+Engineer;in+the+making." alt="Typing SVG" /></a>
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=435&lines=Anastasia+Belova;QA+Automation+Engineer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <b>in the making...</b>
-<p align="center">
-  <img src="https://postimg.cc" alt="Progress Bar" width="280">
+<img src="https://shields.io/badge/Automation_progress-60%25-blue" width="165" height=20>
+  <img src="https://shields.io/badge/Manual_progress-100%25-violet" width="150" height=20>
 </p>
+<h6 style="font-size: 20px;">
+I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills. This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
+</h6>
+
+
+ <details>
+  <summary>💻 My Tech Stack</summary>
+</details>
 
 
 
+<h6></h6>
 
 
-
-<p align="center">
-  <progress value="75" max="100" style="width: 250px; height: 12px;"></progress>
-</p>
+###
 
 
-
-
-
-
-
-
-<h3>
-<strong>Меня зовут Анастасия! 👋Я — начинающий инженер по автоматизации тестирования (Junior QA Automation) и сертифицированный специалист по ручному тестированию. Моя главная цель — развивать свои навыки в автоматизации (API и UI). Сейчас я активно изучаю инструменты автоматизации и создаю функциональные пет-проекты для проверки своих навыков на практике. Это портфолио подтверждает мой переход в QA Automation (JavaScript / Postman / Newman и др.) и доказывает, что я не просто следую готовым тест-скриптам, а понимаю архитектуру, логику бэкенда, ограничения производительности и риски безопасности.
-  <strong>
-</h3>
-<br clear="left"/>
-
-##
-
-<a href="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true">
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true" alt="Tech Stack">
-</a>
-
-<div align="center">
-<p align="center">
-  <h2> 💻 My Tech Stack </h2>
-</p>
-</div>
-<div align="center">
   
 [![My Skills](https://skillicons.dev/icons?i=postman,js,py,pycharm,powershell,git,github,docker,gherkin,html,npm,kali,mysql,selenium,vscode)](https://skillicons.dev)
 
