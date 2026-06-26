@@ -17,13 +17,8 @@
 
 
 
-
-
-
-
-
-<h6 aligh=left>Нi! I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.
-  This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
+<h6 aligh=left>Нi! I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.</h6>
+  <h6 aligh=left>This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
 </h6>
 
 
