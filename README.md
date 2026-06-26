@@ -1,9 +1,9 @@
-### <h3 align="center">👋WELCOME TO MY GITHUB PROFILE!
+### <h3 align="center">👋 WELCOME TO MY GITHUB PROFILE!
 </h3>
 
 ---
 <p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=435&lines=Anastasia+Belova;QA+Automation+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&width=435&lines=Anastasia+Belova+;QA+Automation+Engineer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <img src="https://shields.io/badge/Automation_progress-60%25-blue" width="165" height=20>
