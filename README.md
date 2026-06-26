@@ -25,10 +25,19 @@
  <details>
   <summary>💻 My Tech Stack</summary>
 </details>
-
-
-
+    <p>
+    <img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-282C34?style=plastic&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-282C34?style=plastic&logo=Git&logoColor=F44D27"/>
+    <img src="https://img.shields.io/badge/-NPM-282C34?style=plastic&logo=NPM&logoColor=CB3837"/>
+     <img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/>
+    <img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/
+</p>
 <h6></h6>
+
+###
 
 
 ###
