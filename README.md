@@ -1,5 +1,8 @@
 <h3 align="center">👋 WELCOME TO MY GITHUB PROFILE!
 </h3>
+
+---
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Anastasia+Belova+%7C+QA+Automation+Engineer" alt="Typing SVG" /></a>
 </p>
