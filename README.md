@@ -11,78 +11,44 @@
   <img src="https://shields.io/badge/Manual_progress-100%25-violet" width="150" height=20>
 </p>  
 
-
-
-
-
-
-
-<h6 aligh=left>Нi! I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.<br>This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
+<h6 aligh=left>Нi! I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API/Backend & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.<br>This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
 </h6>
 
 
 
  <details>
-  <summary>💻 My Tech Stack</summary>
+  <summary>My Tech Stack</summary>
 </details>
     <p>
-    <img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-282C34?style=plastic&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-282C34?style=plastic&logo=Git&logoColor=F44D27"/>
-    <img src="https://img.shields.io/badge/-NPM-282C34?style=plastic&logo=NPM&logoColor=CB3837"/>
-     <img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>
-      <img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/>
-    <img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/-Python-282C34?style=plastic&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Github-282C34?style=plastic&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-282C34?style=plastic&logo=Git&logoColor=F44D27"/>
+<img src="https://img.shields.io/badge/-NPM-282C34?style=plastic&logo=NPM&logoColor=CB3837"/>
+<img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/-Python-282C34?style=plastic&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/-PyCharm-282C34?style=plastic&logo=pycharm&logoColor=FF0007"/>
 <img src="https://img.shields.io/badge/-Selenium-282C34?style=plastic&logo=selenium&logoColor=43B02A"/>
-   <img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/>
-  <img src="https://img.shields.io/badge/-Node.js-282C34?style=plastic&logo=nodedotjs&logoColor=5FA04E"/>
-     <img src="https://img.shields.io/badge/-Jira-282C34?style=plastic&logo=jira&logoColor=0052CC"/>
-     <img src="https://img.shields.io/badge/-Json-282C34?style=plastic&logo=json&logoColor=FFFFFF"/>
-      <img src="https://img.shields.io/badge/-Confluence-282C34?style=plastic&logo=confluence&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/>
+<img src="https://img.shields.io/badge/-Node.js-282C34?style=plastic&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/-Jira-282C34?style=plastic&logo=jira&logoColor=0052CC"/>
+<img src="https://img.shields.io/badge/-Json-282C34?style=plastic&logo=json&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/-Confluence-282C34?style=plastic&logo=confluence&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/-Mysql-282C34?style=plastic&logo=mysql&logoColor=F68315"/>
+<img src="https://img.shields.io/badge/-PostgreSql-282C34?style=plastic&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/-Bash-282C34?style=plastic&logo=gnubash&logoColor=4EAA25"/>
-   <img src="https://img.shields.io/badge/-DevTools-282C34?style=plastic&logo=googlechrome&logoColor=4285F4"/>  
+<img src="https://img.shields.io/badge/-DevTools-282C34?style=plastic&logo=googlechrome&logoColor=4285F4"/>  
 <img src="https://img.shields.io/badge/-AndroidStudio-282C34?style=plastic&logo=androidstudio&logoColor=3DDC84"/>
-    <img src="https://img.shields.io/badge/-Figma-282C34?style=plastic&logo=figma&logoColor=F24E1E"/>
-      <img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
+<img src="https://img.shields.io/badge/-Figma-282C34?style=plastic&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
-
-    
+<img src="https://img.shields.io/badge/-KaliLinux-282C34?style=plastic&logo=kalilinux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/-Wireshark-282C34?style=plastic&logo=wireshark&logoColor=1679A7"/>
   </p>
-<h6></h6>
-
-###
-
-
-###
-
-
-  
-[![My Skills](https://skillicons.dev/icons?i=postman,js,py,pycharm,powershell,git,github,docker,gherkin,html,npm,kali,mysql,selenium,vscode)](https://skillicons.dev)
-
-</div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="50" height="50"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="45" height="45"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="45" height="45"/>&nbsp
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="45" height="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="45" height="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="45" height="45"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="45" height="45"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="45" height="45"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="45" height="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" alt="bash" width="45" height="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json" alt="json" width="45" height="45"/> &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="45" height="45"/> &nbsp
-
-
-
-</div>
 
 ---
+
 ## 🧠 Technical Expertise & Engineering Skills
 
 * **API Automation:** Postman, JavaScript (Продвинутый скриптинг: динамическая цепочка запросов (API Chaining), валидация сложных массивов, кастомные вспомогательные функции и циклы `forEach`).
@@ -98,7 +64,7 @@
 ### 🌀 Project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
 *Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).*
 *   **Архитектура фреймворка:** Полный **Zero Hardcode** (динамический подхват и передача токенов и ID по всей цепочке запросов). Интегрирован Postman Mock Server для симуляции внешних интеграций.
-*   **QA Security Audit:** Внедрена автоматизированная проверка критических уязвимостей на основе стандартов OWASP API Security Top 10 (включая BOLA, SQLi, Broken Authentication etc.). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
+*   **QA Security Audit:** Внедрена автоматизированная проверка критических уязвимостей на основе стандартов OWASP Top 10 (включая BOLA, SQLi, Broken Authentication etc.). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
 *   **Инфраструктурные тесты:** Нагрузка сервера до точки отказа (`ECONNRESET`) через параллельный CLI-запуск.
 *   **BDD подход (Gherkin):** Сценарии написаны как исполняемые спецификации (`Given / When / Then`), что делает их прозрачными для бизнеса и готовыми к миграции на Cucumber/SpecFlow.
 *   **Smart Scripting:** Циклы `forEach` на JavaScript для глубокой проверки массивов данных и валидации JSON-схем (Contract Testing на соответствие Swagger).
@@ -108,9 +74,9 @@
 
 
 ### 🌐 Project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
-*Комплексное ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).*
-*   **Что внутри:** Разработаны чек-листы, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report).
-*   **Дополнение:** Защита итоговой проектной работы в виде скрин-каста (.mp4)
+*Ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).*
+*   **Что внутри:** Разработаны: чек-лист, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report).
+*   **Дополнение:** Защита итоговой проектной работы в формате скрин-каста (.mp4)
 *   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
 
 ### 🕵️‍♂️ Cybersecurity Lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
@@ -124,10 +90,10 @@
 
 
 ## 📫 Как со мной связаться
-*   **Telegram:** [@Cyber_Dynasty]
+*   **Telegram:** [@C]
 *   **Email:** [bel.test.qa@gmail.com]
 *   **LinkedIn:** [(https://www.linkedin.com/in/anastasia-belova-aqa/)]
-
+telegram
 
 
 
