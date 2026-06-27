@@ -33,8 +33,25 @@
      <img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>
       <img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/>
     <img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/
-</p>
+      <img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/-Python-282C34?style=plastic&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/-PyCharm-282C34?style=plastic&logo=pycharm&logoColor=FF0007"/>
+<img src="https://img.shields.io/badge/-Selenium-282C34?style=plastic&logo=selenium&logoColor=43B02A"/>
+   <img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/>
+  <img src="https://img.shields.io/badge/-Node.js-282C34?style=plastic&logo=nodedotjs&logoColor=5FA04E"/>
+     <img src="https://img.shields.io/badge/-Jira-282C34?style=plastic&logo=jira&logoColor=0052CC"/>
+     <img src="https://img.shields.io/badge/-Json-282C34?style=plastic&logo=json&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/-Confluence-282C34?style=plastic&logo=confluence&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/-Mysql-282C34?style=plastic&logo=mysql&logoColor=F68315"/>
+<img src="https://img.shields.io/badge/-Bash-282C34?style=plastic&logo=gnubash&logoColor=4EAA25"/>
+   <img src="https://img.shields.io/badge/-DevTools-282C34?style=plastic&logo=googlechrome&logoColor=4285F4"/>  
+<img src="https://img.shields.io/badge/-AndroidStudio-282C34?style=plastic&logo=androidstudio&logoColor=3DDC84"/>
+    <img src="https://img.shields.io/badge/-Figma-282C34?style=plastic&logo=figma&logoColor=F24E1E"/>
+      <img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
+<img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
+
+    
+  </p>
 <h6></h6>
 
 ###
@@ -60,6 +77,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" alt="bash" width="45" height="45"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json" alt="json" width="45" height="45"/> &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="45" height="45"/> &nbsp
+
+
+
 </div>
 
 ---
