@@ -54,6 +54,7 @@
 *   **Reporting:** Генерация кастомных HTML-дашбордов с глубокой аналитикой через htmlextra.
 *   **CI/CD Ready:** Полная автономность коллекции для запуска в пайплайнах.
 *   🔗 **Перейти к проекту:** [api-automation-oort-depot](https://github.com)
+</details>
 
 
 ### 🌐 Project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
@@ -65,6 +66,7 @@
 *   **Что внутри:** Разработаны: чек-лист, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report).
 *   **Дополнение:** Защита итоговой проектной работы в формате скрин-каста (.mp4)
 *   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
+</details>
 
 ### 🕵️‍♂️ Cybersecurity Lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
 <h6>Комплексный аудит безопасности веб-ресурсов и симуляция целевых атак по методологии OWASP Top 10.</h6>
@@ -74,6 +76,7 @@
   
 *   **Что внутри:** Выполнены лабораторные работы, составлены отчеты по исследованию уязвимостей веб-приложений (OWASP Top 10) и тестам на проникновение в рамках профильного обучения (SkillFactory).
 *   🔗 **Перейти в репозиторий:** [web-pentest-cybersecurity-labs](https://github.com)
+</details>
 
 ### 🗄️ Databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
 <h6>Скрипты со сложными SQL-запросами, демонстрирующие навыки работы с реляционными БД.</h6>
@@ -83,7 +86,7 @@
   
 *   **Что внутри:** Решение комплексных задач на специализированных тренажерах (работа со срезами данных, математические агрегации, многотабличные `JOIN` операции, вложенные запросы).
 *   *   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
-
+</details>
 
 ## 📫 Как со мной связаться
 *   **Telegram:** [@C]
