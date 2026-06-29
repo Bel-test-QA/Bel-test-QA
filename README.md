@@ -40,7 +40,7 @@
 
 ## <p align="center">🛡️ software testing rojects<p>
 
-### 🌀 Project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
+### 🌀 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
 <h6>Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).</h6>
 <details>
 <summary><b>⚡️ core architecture & advanced scripting scope</b></summary>
@@ -57,7 +57,7 @@
 </details>
 
 
-### 🌐 Project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
+### 🌐 project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
 <h6>Ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).</h6>
 <details>
 <summary><b>📋 core qa scope & testing artifacts</b></summary>
@@ -68,7 +68,7 @@
 *   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
 </details>
 
-### 🕵️‍♂️ Cybersecurity Lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
+### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
 <h6>Комплексный аудит безопасности веб-ресурсов и симуляция целевых атак по методологии OWASP Top 10.</h6>
 <details>
 <summary><b>🔓 security audit & vulnerability analysis</b></summary>
@@ -78,10 +78,10 @@
 *   🔗 **Перейти в репозиторий:** [web-pentest-cybersecurity-labs](https://github.com)
 </details>
 
-### 🗄️ Databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
+### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
 <h6>Скрипты со сложными SQL-запросами, демонстрирующие навыки работы с реляционными БД.</h6>
 <details>
-<summary><b>🗄️ database manipulation & complex query logic</b></summary>
+<summary><b>⚙️ database manipulation & complex query logic</b></summary>
 <br>
   
 *   **Что внутри:** Решение комплексных задач на специализированных тренажерах (работа со срезами данных, математические агрегации, многотабличные `JOIN` операции, вложенные запросы).
