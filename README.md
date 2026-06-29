@@ -14,52 +14,31 @@
 <h6 aligh=left>Нi! I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API/Backend & UI). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.<br>This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
 </h6>
 
+## <p align="center">🧠 My Tech Stack</p> 
+**API & Network Testing** <img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>  <img src="https://img.shields.io/badge/-DevTools-282C34?style=plastic&logo=googlechrome&logoColor=4285F4"/> <img src="https://img.shields.io/badge/-OpenAPI-282C34?style=plastic&logo=openapiinitiative&logoColor=6BA539"/>  <img src="https://img.shields.io/badge/-Swagger-282C34?style=plastic&logo=swagger&logoColor=85EA2D"/> <img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
+
+**Languages & Web** <img src="https://img.shields.io/badge/-Python-282C34?style=plastic&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/-Json-282C34?style=plastic&logo=json&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
 
 
- <details>
-  <summary>My Tech Stack</summary>
-</details>
-    <p>
-<img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Github-282C34?style=plastic&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-282C34?style=plastic&logo=Git&logoColor=F44D27"/>
-<img src="https://img.shields.io/badge/-NPM-282C34?style=plastic&logo=NPM&logoColor=CB3837"/>
-<img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/-Python-282C34?style=plastic&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/-PyCharm-282C34?style=plastic&logo=pycharm&logoColor=FF0007"/>
-<img src="https://img.shields.io/badge/-Selenium-282C34?style=plastic&logo=selenium&logoColor=43B02A"/>
-<img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/-Node.js-282C34?style=plastic&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/-Jira-282C34?style=plastic&logo=jira&logoColor=0052CC"/>
-<img src="https://img.shields.io/badge/-Json-282C34?style=plastic&logo=json&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/-Confluence-282C34?style=plastic&logo=confluence&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/-Mysql-282C34?style=plastic&logo=mysql&logoColor=F68315"/>
-<img src="https://img.shields.io/badge/-PostgreSql-282C34?style=plastic&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/-Bash-282C34?style=plastic&logo=gnubash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/-DevTools-282C34?style=plastic&logo=googlechrome&logoColor=4285F4"/>  
-<img src="https://img.shields.io/badge/-AndroidStudio-282C34?style=plastic&logo=androidstudio&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/-Figma-282C34?style=plastic&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
-<img src="https://img.shields.io/badge/-KaliLinux-282C34?style=plastic&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/-Wireshark-282C34?style=plastic&logo=wireshark&logoColor=1679A7"/>
-  </p>
+**QA Automation** <img src="https://img.shields.io/badge/-Selenium-282C34?style=plastic&logo=selenium&logoColor=43B02A"/> <img src="https://img.shields.io/badge/-NPM-282C34?style=plastic&logo=NPM&logoColor=CB3837"/> <img src="https://img.shields.io/badge/-Node.js-282C34?style=plastic&logo=nodedotjs&logoColor=5FA04E"/> 
 
----
 
-## 🧠 Technical Expertise & Engineering Skills
+**Management & Documentation** <img src="https://img.shields.io/badge/-Jira-282C34?style=plastic&logo=jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/-TestRail-282C34?style=plastic&logo=testRail&logoColor=#65C179"/> <img src="https://img.shields.io/badge/-Confluence-282C34?style=plastic&logo=confluence&logoColor=00599C"/> <img src="https://img.shields.io/badge/-Figma-282C34?style=plastic&logo=figma&logoColor=F24E1E"/>
 
-* **API Automation:** Postman, JavaScript (Продвинутый скриптинг: динамическая цепочка запросов (API Chaining), валидация сложных массивов, кастомные вспомогательные функции и циклы `forEach`).
-* **CLI & Reporting (CI/CD Ready):** Запуск через Newman, кастомные HTML-дашборды (`htmlextra`) и комплексная интеграция с Allure Report.
-* **Security & Performance Testing:** Автоматизированные проверки уязвимостей OWASP API Security (BOLA, SQL-инъекции, Mass Assignment); базовое нагрузочное тестирование и поиск «точки отказа» системы через параллельный запуск инстансов Newman.
-* **Databases & Data Manipulation:** SQL (сложные запросы, срезы данных, агрегатные функции и сложные многотабличные операции `JOIN`).
-* **QA Core & Methodologies:** Глубокое понимание техник тест-дизайна, BDD-методологии (Gherkin), инструментов управления тестированием (Jira) и спецификаций Swagger / OpenAPI.
 
----
+**CI/CD & OS & Environment** <img src="https://img.shields.io/badge/-AndroidStudio-282C34?style=plastic&logo=androidstudio&logoColor=3DDC84"/>
+ <img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/> <img src="https://img.shields.io/badge/-Bash-282C34?style=plastic&logo=gnubash&logoColor=4EAA25"/> 
 
-## 🛡️ Software Testing Projects
+**IDEs & Version Control**  <img src="https://img.shields.io/badge/-PyCharm-282C34?style=plastic&logo=pycharm&logoColor=FF0007"/> <img src="https://img.shields.io/badge/-Github-282C34?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-282C34?style=plastic&logo=Git&logoColor=F44D27"/>  <img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
+
+
+**Security Testing**  <img src="https://img.shields.io/badge/-KaliLinux-282C34?style=plastic&logo=kalilinux&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/-BurpSuite-282C34?style=plastic&logo=burpsuite&logoColor=FF6633"/> <img src="https://img.shields.io/badge/-Wireshark-282C34?style=plastic&logo=wireshark&logoColor=1679A7"/>
+
+**Databases**  <img src="https://img.shields.io/badge/-PostgreSql-282C34?style=plastic&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/-Mysql-282C34?style=plastic&logo=mysql&logoColor=F68315"/>
+
+
+## <p align="center">🛡️ Software Testing Projects<p>
 
 ### 🌀 Project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
 *Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).*
