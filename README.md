@@ -88,6 +88,11 @@
 *   *   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
 </details>
 
+
+
+![Bel-test-QA's GitHub stats](https://github-readme-stats..shion.dev/api?username=Bel-test-QA&show_icons=true&bg_color=00000000)
+
+
 ---
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=%F0%9F%A7%AC+open+for+opportunities+%26+feedback+" alt="Typing SVG" /></a></p>
