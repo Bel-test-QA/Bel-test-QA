@@ -88,23 +88,18 @@
 *   *   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
 </details>
 
-## 📫 Как со мной связаться
-*   **Telegram:** [@C]
-*   **Email:** [bel.test.qa@gmail.com]
-*   **LinkedIn:** [(https://www.linkedin.com/in/anastasia-belova-aqa/)]
-telegram
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=%F0%9F%A7%AC+open+for+opportunities+%26+feedback+" alt="Typing SVG" /></a></p>
+
+<p align="center">
+<a href="https://t.me/Bel_Test_AQA"><img src="https://shields.io/badge/-Telegram-282C34?style=plastic&logo=telegram&logoColor=26A5E4"/></a>
+<a href="https://www.linkedin.com/in/anastasia-belova-aqa"><img src="https://shields.io/badge/-LinkedIn-282C34?style=plastic&logo=linkedin&logoColor=blue"/></a>
+<a href="mailto:bel.test.qa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-282C34?style=plastic&logo=gmail&logoColor=EA4335"/></a>
+</p>
+
+
+
+
+
 
