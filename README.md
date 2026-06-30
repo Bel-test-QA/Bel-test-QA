@@ -93,11 +93,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-github%20activity%20%26%20stats-58AAC4?style=plastic&logo&labelColor=58AAC4&color=282C34"/>
 </p>
-  <p align="center">
-  <img src="github-stats.svg" alt="GitHub stats" height="150" align="left" />
-  <img src="github-langs.svg" alt="Top Languages" height="130" align="right" />
+ <p align="center">
+  <img src="github-stats.svg" alt="GitHub stats" height="180" />
+  &nbsp;&nbsp;
+  <img src="github-langs.svg" alt="Top Languages" height="220" />
 </p>
-<br clear="all" />
+
 
 ---
 
