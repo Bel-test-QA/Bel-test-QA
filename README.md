@@ -95,9 +95,9 @@
 </p>
 
 <p align="left">
-  <img src="github-stats.svg" alt="GitHub stats" height="130"/>
+  <img src="github-stats.svg" alt="GitHub stats" height="180"/>
   
-  <img src="github-langs.svg" alt="Top Languages" height="130" />
+  <img src="github-langs.svg" alt="Top Languages" height="180" />
 </p>
 
 
