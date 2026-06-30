@@ -16,7 +16,7 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Europe/Moscow
           
-          # Твоя кастомная бирюзово-серая палитра
+          # Кастомная бирюзово-серая палитра
           palette: github
           colors: |
             title:#58AAC4
