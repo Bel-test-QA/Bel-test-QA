@@ -88,16 +88,16 @@
 *   *   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;
 
 <p align="center">
   <img src="https://img.shields.io/badge/-github%20activity%20%26%20stats-58AAC4?style=plastic&logo&labelColor=58AAC4&color=282C34"/>
 </p>
 
-<p align="center">
-  <img src="github-stats.svg" alt="GitHub stats" height="180"/>
+<p align="left">
+  <img src="github-stats.svg" alt="GitHub stats" height="130"/>
   
-  <img src="github-langs.svg" alt="Top Languages" height="300" />
+  <img src="github-langs.svg" alt="Top Languages" height="130" />
 </p>
 
 
