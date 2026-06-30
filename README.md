@@ -90,7 +90,15 @@
 
 
 
-![Bel-test-QA's GitHub stats](https://github-readme-stats..shion.dev/api?username=Bel-test-QA&show_icons=true&bg_color=00000000)
+<p align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20github%20activity%20%26%20stats-282C34?style=flat&labelColor=282C34&color=white"/>
+</p>
+&zwnj;
+<p align="center">
+  <img src="github-stats.svg" alt="GitHub stats" height="150" />
+  <img src="github-langs.svg" alt="Top Languages" height="150" />
+</p>
+&zwnj;
 
 
 ---
