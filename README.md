@@ -78,7 +78,7 @@
   
 *   **Hands-on Labs:** Successfully completed dedicated laboratory workloads and generated detailed vulnerability research reports covering `OWASP Top 10` critical web application security risks.
 *   **Penetration Testing:** Executed practical penetration testing scenarios and captured flags (`CTF` 🚩) as part of the specialized cybersecurity program at SkillFactory.
-*   🔗 **View Repository:*** [web-pentest-cybersecurity-labs](https://github.com)
+*   🔗 **View Repository:** [web-pentest-cybersecurity-labs](https://github.com)
 </details>
 
 ### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
