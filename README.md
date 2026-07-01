@@ -54,7 +54,7 @@
 *   **Smart Scripting:** Leveraged JavaScript `forEach` loops for deep data array assertions and JSON schema validation (Contract Testing for Swagger compliance).
 *   **Reporting:** Generates customized HTML dashboards with deep execution analytics via htmlextra.
 *   **CI/CD Ready:** Fully autonomous collection configured for seamless deployment and execution within CI/CD pipelines.
-*   🔗 **View Project:** [api-automation-oort-depot](https://github.com)
+*   🔗 **View Project:** [api-automation-oort-depot](https://github.com/Bel-test-QA/api-automation-oort-depot)
 </details>
 
 
@@ -67,7 +67,7 @@
 *   **Test Documentation:** Developed full test documentation suites including comprehensive checklist, functional test cases, and formal bug reports.
 *   **Final Sign-off:** Compiled a comprehensive Test Summary Report (TSR) to summarize execution outcomes and quality metrics.
 *   **Project Defense:** Successfully delivered and defended the final project work via a technical video screen-cast (.mp4).
-*   🔗 **View Project:** [ui-manual-qa-globbing](https://github.com)
+*   🔗 **View Project:** [ui-manual-qa-globbing](https://github.com/Bel-test-QA/ui-manual-qa-globbing)
 </details>
 
 ### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
@@ -78,7 +78,7 @@
   
 *   **Hands-on Labs:** Successfully completed dedicated laboratory workloads and generated detailed vulnerability research reports covering `OWASP Top 10` critical web application security risks.
 *   **Penetration Testing:** Executed practical penetration testing scenarios and captured flags (`CTF` 🚩) as part of the specialized cybersecurity program at SkillFactory.
-*   🔗 **View Repository:** [web-pentest-cybersecurity-labs](https://github.com)
+*   🔗 **View Repository:** [web-pentest-cybersecurity-labs](https://github.com/Bel-test-QA/web-pentest-cybersecurity-labs)
 </details>
 
 ### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
@@ -89,7 +89,7 @@
   
 *   **Advanced Problem Solving:** Resolved intricate, high-level data challenges on specialized database platforms, focusing on advanced data slicing and performance optimization.
 *   **Query Implementation:** Developed production-ready scripts leveraging complex mathematical aggregations, deep multi-table `JOIN` operations, and heavily nested subqueries.
-*   🔗 **View Repository:** [sql-simulator-practice](https://github.com)
+*   🔗 **View Repository:** [sql-simulator-practice](https://github.com/Bel-test-QA/sql-simulator-practice)
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
