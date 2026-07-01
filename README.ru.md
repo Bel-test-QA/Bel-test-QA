@@ -68,7 +68,7 @@
 *   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
 </details>
 
-### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
+### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hacker](https://github.com)
 <h6>Комплексный аудит безопасности веб-ресурсов и симуляция целевых атак по методологии OWASP Top 10.</h6>
 <details>
 <summary><b>🔓 Аудит безопасности и анализ уязвимостей</b></summary>
