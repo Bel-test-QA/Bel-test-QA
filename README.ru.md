@@ -1,3 +1,4 @@
+<p align="right">🌐 <a href="README.md">English</a> | <b>Русский</b></p>
 <h3 align="center">👋 ДОБРО ПОЖАЛОВАТЬ В МОЙ ПРОФИЛЬ НА GITHUB!
 </h3>
 
@@ -14,7 +15,7 @@
 <h6 aligh=left>Привет! Я — начинающий инженер по автоматизации тестирования (Junior QA Automation) и сертифицированный специалист по ручному тестированию. Моя главная цель - развивать свои навыки в автоматизации (API & UI). Сейчас я активно изучаю инструменты автоматизации и создаю функциональные пет-проекты для проверки своих навыков на практике.<br>Это портфолио подтверждает мой переход в QA Automation (JavaScript / Postman / Newman и др.) и доказывает, что я не просто следую готовым тест-скриптам, а понимаю архитектуру, логику бэкенда, ограничения производительности и риски безопасности.
 </h6>
 
-## <p align="center">🧠 Мой набор технологий</p> 
+## <p align="center">🧠 мой набор технологий</p> 
 **тестирование API** &nbsp; <img src="https://img.shields.io/badge/-Postman-282C34?style=plastic&logo=postman&logoColor=FF6C37"/>  <img src="https://img.shields.io/badge/-DevTools-282C34?style=plastic&logo=googlechrome&logoColor=4285F4"/> <img src="https://img.shields.io/badge/-OpenAPI-282C34?style=plastic&logo=openapiinitiative&logoColor=6BA539"/>  <img src="https://img.shields.io/badge/-Swagger-282C34?style=plastic&logo=swagger&logoColor=85EA2D"/> <img src="https://img.shields.io/badge/-CharlesProxy-282C34?style=plastic&logo=charles&logoColor=F3F5F5"/>
 
 **веб и язык** &nbsp; <img src="https://img.shields.io/badge/-Python-282C34?style=plastic&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/-JavaScript-282C34?style=plastic&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/-HTML5-282C34?style=plastic&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/-Json-282C34?style=plastic&logo=json&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/-CSS3-282C34?style=plastic&logo=CSS3&logoColor=1572B6"/>
