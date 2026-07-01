@@ -1,3 +1,4 @@
+<p align="right">🌐 <b>English</b> | <a href="README.ru.md">Русский</a></p>
 <h3 align="center">👋 WELCOME TO MY GITHUB PROFILE!
 </h3>
 
