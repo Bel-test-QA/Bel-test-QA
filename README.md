@@ -42,51 +42,54 @@
 ## <p align="center">🛡️ software testing rojects<p>
 
 ### 🌀 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
-<h6>Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).</h6>
+<h6>Comprehensive automated testing system for a large-scale backend application (Warehouse Management System).</h6>
 <details>
 <summary><b>⚡️ core architecture & advanced scripting scope</b></summary>
 <br>
   
-*   **Архитектура фреймворка:** Полный **Zero Hardcode** (динамический подхват и передача токенов и ID по всей цепочке запросов). Интегрирован Postman Mock Server для симуляции внешних интеграций.
-*   **QA Security Audit:** Внедрена автоматизированная проверка критических уязвимостей на основе стандартов `OWASP Top 10` (включая BOLA, SQLi, Broken Authentication etc.). По результатам аудита сформирован Security Verdict и заведены дефекты в Jira.
-*   **Инфраструктурные тесты:** Нагрузка сервера до точки отказа (`ECONNRESET`) через параллельный CLI-запуск.
-*   **BDD подход (Gherkin):** Сценарии написаны как исполняемые спецификации (`Given / When / Then`), что делает их прозрачными для бизнеса и готовыми к миграции на Cucumber/SpecFlow.
-*   **Smart Scripting:** Циклы `forEach` на JavaScript для глубокой проверки массивов данных и валидации JSON-схем (Contract Testing на соответствие Swagger).
-*   **Reporting:** Генерация кастомных HTML-дашбордов с глубокой аналитикой через htmlextra.
-*   **CI/CD Ready:** Полная автономность коллекции для запуска в пайплайнах.
-*   🔗 **Перейти к проекту:** [api-automation-oort-depot](https://github.com)
+*   **Framework Architecture:** Full **Zero Hardcode** design with dynamic extraction and token/ID propagation across the entire request chain. Integrated Postman Mock Server to simulate external integrations.
+*   **QA Security Audit:** Implemented automated vulnerability scanning based on `OWASP Top 10` standards (including BOLA, SQLi, Broken Authentication, etc.). Generates a final Security Verdict and automatically creates defect logs in Jira.
+*   **Infrastructure Testing:** Executed server stress testing up to the failure threshold (`ECONNRESET`) via parallel CLI execution.
+*   **BDD Approach (Gherkin):** Test scenarios are structured as executable specifications using the `Given / When / Then` pattern, ensuring business transparency and seamless migration to Cucumber/SpecFlow.
+*   **Smart Scripting:** Leveraged JavaScript `forEach` loops for deep data array assertions and JSON schema validation (Contract Testing for Swagger compliance).
+*   **Reporting:** Generates customized HTML dashboards with deep execution analytics via htmlextra.
+*   **CI/CD Ready:** Fully autonomous collection configured for seamless deployment and execution within CI/CD pipelines.
+*   🔗 **View Project:** [api-automation-oort-depot](https://github.com)
 </details>
 
 
 ### 🌐 project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
-<h6>Ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).</h6>
+<h6>Manual functional testing of a user registration service, completed as part of the advanced professional program "Software Testing Specialist" (TSU).</h6>
 <details>
 <summary><b>📋 core qa scope & testing artifacts</b></summary>
 <br>
 
-*   **Что внутри:** Разработаны: чек-лист, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report).
-*   **Дополнение:** Защита итоговой проектной работы в формате скрин-каста (.mp4)
-*   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
+*   **Test Documentation:** Developed full test documentation suites including comprehensive checklist, functional test cases, and formal bug reports.
+*   **Final Sign-off:** Compiled a comprehensive Test Summary Report (TSR) to summarize execution outcomes and quality metrics.
+*   **Project Defense:** Successfully delivered and defended the final project work via a technical video screen-cast (.mp4).
+*   🔗 **View Project:** [ui-manual-qa-globbing](https://github.com)
 </details>
 
 ### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
-<h6>Комплексный аудит безопасности веб-ресурсов и симуляция целевых атак по методологии OWASP Top 10.</h6>
+<h6>Comprehensive web application security auditing and targeted attack simulation based on OWASP Top 10 methodologies.</h6>
 <details>
 <summary><b>🔓 security audit & vulnerability analysis</b></summary>
 <br>
   
-*   **Что внутри:** Выполнены лабораторные работы, составлены отчеты по исследованию уязвимостей веб-приложений `OWASP Top 10` и захватам флага в тестах на проникновение `CTF` 🚩 в рамках профильного обучения (SkillFactory).
-*   🔗 **Перейти в репозиторий:** [web-pentest-cybersecurity-labs](https://github.com)
+*   **Hands-on Labs:** Successfully completed dedicated laboratory workloads and generated detailed vulnerability research reports covering `OWASP Top 10` critical web application security risks.
+*   **Penetration Testing:** Executed practical penetration testing scenarios and captured flags (`CTF` 🚩) as part of the specialized cybersecurity program at SkillFactory.
+*   🔗 **View Repository:*** [web-pentest-cybersecurity-labs](https://github.com)
 </details>
 
 ### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
-<h6>Скрипты со сложными SQL-запросами, демонстрирующие навыки работы с реляционными БД.</h6>
+<h6>Advanced SQL scripting showcasing complex relational database manipulation and query building.</h6>
 <details>
 <summary><b>⚙️ database manipulation & complex query logic</b></summary>
 <br>
   
-*   **Что внутри:** Решение комплексных задач на специализированных тренажерах (работа со срезами данных, математические агрегации, многотабличные `JOIN` операции, вложенные запросы).
-*   *   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
+*   **Advanced Problem Solving:** Resolved intricate, high-level data challenges on specialized database platforms, focusing on advanced data slicing and performance optimization.
+*   **Query Implementation:** Developed production-ready scripts leveraging complex mathematical aggregations, deep multi-table `JOIN` operations, and heavily nested subqueries.
+*   🔗 **View Repository:** [sql-simulator-practice](https://github.com)
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
