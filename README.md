@@ -94,6 +94,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
 
+<img src="project1-card.svg" height="105" />
+<img src="project2-card.svg" height="105" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/-github%20activity%20%26%20stats-58AAC4?style=plastic&logo&labelColor=58AAC4&color=282C34"/>
 </p>
