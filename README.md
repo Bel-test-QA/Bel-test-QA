@@ -42,7 +42,7 @@
 
 ## <p align="center">🛡️ software testing rojects<p>
 
-### 🌀 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
+### 🌌 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
 <h6>Comprehensive automated testing system for a large-scale backend application (Warehouse Management System).</h6>
 <details>
 <summary><b>⚡️ core architecture & advanced scripting scope</b></summary>
