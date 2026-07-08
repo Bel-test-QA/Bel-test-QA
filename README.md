@@ -42,7 +42,7 @@
 
 ## <p align="center">🛡️ software testing rojects<p>
 
-### 🌌 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
+### 🌌 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com/Bel-test-QA/api-automation-oort-depot.git)
 <h6>Comprehensive automated testing system for a large-scale backend application (Warehouse Management System).</h6>
 <details>
 <summary><b>⚡️ core architecture & advanced scripting scope</b></summary>
@@ -59,7 +59,7 @@
 </details>
 
 
-### 🌐 project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
+### 🌐 project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com/Bel-test-QA/ui-manual-qa-globbing.git)
 <h6>Manual functional testing of a user registration service, completed as part of the advanced professional program "Software Testing Specialist" (TSU).</h6>
 <details>
 <summary><b>📋 core qa scope & testing artifacts</b></summary>
