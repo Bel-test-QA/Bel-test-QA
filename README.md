@@ -71,7 +71,7 @@
 *   🔗 **View Project:** [ui-manual-qa-globbing](https://github.com/Bel-test-QA/ui-manual-qa-globbing)
 </details>
 
-### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hat](https://github.com)
+### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hat](https://github.com/Bel-test-QA/web-pentest-cybersecurity-labs)
 <h6>Comprehensive web application security auditing and targeted attack simulation based on OWASP Top 10 methodologies.</h6>
 <details>
 <summary><b>🔓 security audit & vulnerability analysis</b></summary>
@@ -82,7 +82,7 @@
 *   🔗 **View Repository:** [web-pentest-cybersecurity-labs](https://github.com/Bel-test-QA/web-pentest-cybersecurity-labs)
 </details>
 
-### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
+### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com/Bel-test-QA/sql-simulator-practice)
 <h6>Advanced SQL scripting showcasing complex relational database manipulation and query building.</h6>
 <details>
 <summary><b>⚙️ database manipulation & complex query logic</b></summary>
