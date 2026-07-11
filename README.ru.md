@@ -28,7 +28,7 @@
 
 
 **ci/cd & os** &nbsp; <img src="https://img.shields.io/badge/-AndroidStudio-282C34?style=plastic&logo=androidstudio&logoColor=3DDC84"/>
- <img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/> <img src="https://img.shields.io/badge/-Bash-282C34?style=plastic&logo=gnubash&logoColor=4EAA25"/> <img src="https://img.shields.io/badge/-GitActions-282C34?style=plastic&logo=githubactions&logoColor=2088FF"/>
+ <img src="https://img.shields.io/badge/-Jenkins-282C34?style=plastic&logo=jenkins&logoColor=D24939"/> <img src="https://img.shields.io/badge/-Bash-282C34?style=plastic&logo=gnubash&logoColor=4EAA25"/> <img src="https://img.shields.io/badge/-NewmanCLI-FF6C37?style=plastic&logo&color=282C34"/> <img src="https://img.shields.io/badge/-GitActions-282C34?style=plastic&logo=githubactions&logoColor=2088FF"/>
  
 
 **ide & git** &nbsp; <img src="https://img.shields.io/badge/-PyCharm-282C34?style=plastic&logo=pycharm&logoColor=FF0007"/> <img src="https://img.shields.io/badge/-Github-282C34?style=plastic&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Git-282C34?style=plastic&logo=Git&logoColor=F44D27"/>  <img src="https://img.shields.io/badge/-VS%20Code-282C34?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
