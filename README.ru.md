@@ -42,7 +42,7 @@
 
 ## <p align="center">🛡️ проекты по тестированию программного обеспечения<p>
 
-### 🌀 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com)
+### 🌀 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com/Bel-test-QA/api-automation-oort-depot.git)
 <h6>Комплексная система автоматизированного тестирования для крупного бэкенд-приложения (Система управления складом).</h6>
 <details>
 <summary><b>⚡️ Базовая архитектура и расширенные возможности для написания скриптов</b></summary>
@@ -55,11 +55,11 @@
 *   **Smart Scripting:** Циклы `forEach` на JavaScript для глубокой проверки массивов данных и валидации JSON-схем (Contract Testing на соответствие Swagger).
 *   **Reporting:** Генерация кастомных HTML-дашбордов с глубокой аналитикой через htmlextra.
 *   **CI/CD Ready:** Полная автономность коллекции для запуска в пайплайнах.
-*   🔗 **Перейти к проекту:** [api-automation-oort-depot](https://github.com)
+*   🔗 **Перейти к проекту:** [api-automation-oort-depot](https://github.com/Bel-test-QA/api-automation-oort-depot.git)
 </details>
 
 
-### 🌐 project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com)
+### 🌐 project 2: [UI Manual QA Suite: Registration Service | Globbing Shopping Solutions](https://github.com/Bel-test-QA/ui-manual-qa-globbing)
 <h6>Ручное тестирование функционала сервиса регистрации в рамках программы по повышению квалификации "Специалист по тестированию ПО" (ТГУ).</h6>
 <details>
 <summary><b>📋 Основная область контроля качества и артефакты тестирования</b></summary>
@@ -67,27 +67,27 @@
 
 *   **Что внутри:** Разработаны: чек-лист, тест-кейсы, заведены баг-репорты. В заключении составлен отчет о результатах тестирования (Test Summary Report).
 *   **Дополнение:** Защита итоговой проектной работы в формате скрин-каста (.mp4)
-*   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com)
+*   🔗 **Перейти к проекту:** [ui-manual-qa-globbing](https://github.com/Bel-test-QA/ui-manual-qa-globbing)
 </details>
 
-### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hacker](https://github.com)
+### 🕵️‍♂️ cybersecurity lab: [Web-pentest: Penetration Testing | White Hacker](https://github.com/Bel-test-QA/web-pentest-cybersecurity-labs)
 <h6>Комплексный аудит безопасности веб-ресурсов и симуляция целевых атак по методологии OWASP Top 10.</h6>
 <details>
 <summary><b>🔓 Аудит безопасности и анализ уязвимостей</b></summary>
 <br>
   
 *   **Что внутри:** Выполнены лабораторные работы, составлены отчеты по исследованию уязвимостей веб-приложений `OWASP Top 10` и захватам флага в тестах на проникновение `CTF` 🚩 в рамках профильного обучения (SkillFactory).
-*   🔗 **Перейти в репозиторий:** [web-pentest-cybersecurity-labs](https://github.com)
+*   🔗 **Перейти в репозиторий:** [web-pentest-cybersecurity-labs](https://github.com/Bel-test-QA/web-pentest-cybersecurity-labs)
 </details>
 
-### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com)
+### 🗄️ databases:  [SQL Practice: Interactive SQL Simulator | SQL Academy](https://github.com/Bel-test-QA/sql-simulator-practice)
 <h6>Скрипты со сложными SQL-запросами, демонстрирующие навыки работы с реляционными БД.</h6>
 <details>
 <summary><b>⚙️ Работа с базами данных и сложная логика запросов</b></summary>
 <br>
   
 *   **Что внутри:** Решение комплексных задач на специализированных тренажерах (работа со срезами данных, математические агрегации, многотабличные `JOIN` операции, вложенные запросы).
-*   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com)
+*   🔗 **Перейти в репозиторий:** [sql-simulator-practice](https://github.com/Bel-test-QA/sql-simulator-practice)
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
