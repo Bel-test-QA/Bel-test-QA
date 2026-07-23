@@ -40,7 +40,7 @@
 **databases** &nbsp; <img src="https://img.shields.io/badge/-PostgreSql-282C34?style=plastic&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/-Mysql-282C34?style=plastic&logo=mysql&logoColor=F68315"/>
 
 
-## <p align="center">🛡️ software testing rojects<p>
+## <p align="center">🛡️ software testing projects<p>
 
 ### 💎 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com/Bel-test-QA/api-automation-oort-depot.git)
 <h6>Comprehensive automated testing system for a large-scale backend application (Warehouse Management System).</h6>
