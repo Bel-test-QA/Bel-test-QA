@@ -26,9 +26,10 @@ jobs:
           user: Bel-test-QA
           template: classic
           filename: github-langs.svg
-          base: ""
+          base: "metadata"
           plugin_languages: yes
           plugin_languages_categories: programming, data
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8            # Увеличиваем лимит отображаемых языков до 8
           plugin_languages_analysis_timeout: 15 # Даем больше времени на глубокий анализ кода
           plugin_languages_recent_load: 1000    # Заставляем анализировать последние 1000 коммитов вместо 100
