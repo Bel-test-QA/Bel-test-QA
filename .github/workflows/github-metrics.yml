@@ -29,6 +29,10 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_categories: programming, data
+          plugin_languages_limit: 8            # Увеличиваем лимит отображаемых языков до 8
+          plugin_languages_analysis_timeout: 15 # Даем больше времени на глубокий анализ кода
+          plugin_languages_recent_load: 1000    # Заставляем анализировать последние 1000 коммитов вместо 100
+          
           # Делаем компактный вид в одну полоску
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
