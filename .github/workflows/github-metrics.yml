@@ -38,7 +38,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           # Пропускаем разметку, считаем только реальные языки программирования
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, json
           config_timezone: Europe/Moscow
           config_twotone: yes
           config_twotone_color: "#58AAC4"
