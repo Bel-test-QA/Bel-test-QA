@@ -28,6 +28,7 @@ jobs:
           filename: github-langs.svg
           base: ""
           plugin_languages: yes
+          plugin_languages_categories: programming, data
           # Делаем компактный вид в одну полоску
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
