@@ -55,6 +55,9 @@
 *   **Smart Scripting:** Leveraged JavaScript `forEach` loops for deep data array assertions and JSON schema validation (Contract Testing for Swagger compliance).
 *   **Reporting:** Generates customized HTML dashboards with deep execution analytics via htmlextra.
 *   **CI/CD Ready:** Fully autonomous collection configured for seamless deployment and execution within CI/CD pipelines.
+*   **Containerization & Orchestration:** The project is fully containerized using Docker (featuring an optimized Node.js Alpine-based Dockerfile) and integrated with Kubernetes via a Job manifest (YAML). This guarantees complete isolation, seamless orchestration, and automated execution of test runs within the private cluster perimeter.
+*   **Centralized Logging with Kibana:** The entire test run execution is integrated with a centralized search database. All test results, HTTP status codes, and contract validation errors are automatically parsed and ingested into Elasticsearch for downstream analysis and visualization in Kibana.
+*   **Async Event Simulation (Kafka):** Developed the infrastructure blueprint for testing asynchronous interactions across space warehouse systems. Implemented standalone validation scripts using Node.js (KafkaJS) to simulate event production (producer.js) and consumption (consumer.js) for new shipment events. This ensures complete data integrity and contract schema validation across message broker topics.
 *   🔗 **View Project:** [api-automation-oort-depot](https://github.com/Bel-test-QA/api-automation-oort-depot)
 </details>
 
