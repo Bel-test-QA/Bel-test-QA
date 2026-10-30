@@ -8,11 +8,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Anastasia+Belova+%7C+QA+Automation+Engineer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img src="https://shields.io/badge/Automation_progress-60%25-blue" width="165" height=20>
+<img src="https://shields.io/badge/Automation_progress-45%25-blue" width="165" height=20>
   <img src="https://shields.io/badge/Manual_progress-100%25-violet" width="150" height=20>
 </p>  
 
-<h6 aligh=left>Нi! I'm a junior QA Automation engineer and a certified manual testing specialist. My main goal is to develop my automation skills (API & Backend). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.<br>This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
+<h6 aligh=left>Нi! I'm a certified manual testing specialist (QA Engineer) and a junior QA Automation engineer. My main goal is to develop my automation skills (API & Backend). I'm currently actively exploring automation tools and creating functional pet projects to test my skills.<br>This portfolio proves my transition into QA Automation (JavaScript/ Postman/ Newman etc.) demonstrating that I don't just follow test scripts, but understand architecture, backend logic, performance constraints, and security risks.
 </h6>
 
 ## <p align="center">🧠 my tech stack</p> 
