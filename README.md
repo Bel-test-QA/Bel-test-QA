@@ -118,8 +118,11 @@
 <p align="center">
 <a href="https://t.me/Bel_Test_AQA"><img src="https://shields.io/badge/-Telegram-282C34?style=plastic&logo=telegram&logoColor=26A5E4"/></a>
 <a href="https://www.linkedin.com/in/anastasia-belova-aqa"><img src="https://shields.io/badge/-LinkedIn-282C34?style=plastic&logo=linkedin&logoColor=blue"/></a>
-<a href="mailto:bel.test.qa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-282C34?style=plastic&logo=gmail&logoColor=EA4335"/></a>
+<a href="https:&#47;&#47;mail.google.com&#47;mail&#47;?view=cm&amp;fs=1&amp;to=bel.test.qa@gmail.com" target="_blank">
+  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;-Gmail-282C34?style=plastic&amp;logo=gmail&amp;logoColor=EA4335"/>
+</a>
 </p>
+
 
 
 
