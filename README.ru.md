@@ -8,11 +8,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Anastasia+Belova+%7C+QA+Engineer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;api-automation-oort-depot" target="_blank">
-  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Automation-API-blue" width="104" height="19">
-</a>
 <a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;ui-manual-qa-globbing" target="_blank">
   <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Manual-UI-blue" width="82" height="19">
+  <a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;api-automation-oort-depot" target="_blank">
+  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Automation-API-blue" width="104" height="19">
 </a>
 </p>  
 
