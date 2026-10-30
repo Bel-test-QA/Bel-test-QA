@@ -14,7 +14,6 @@
 <a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;ui-manual-qa-globbing" target="_blank">
   <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Manual-UI-darkgrey" width="82" height="19">
 </a>
-
 </p>  
 
 <h6 aligh=left>Нi! I am a certified Manual QA Engineer. My main goal is to develop my skills in API and Backend automation testing to offload routine tasks to scripts, speed up regression testing, and free up time for finding complex logical bugs. Currently, I am actively learning automation tools (JavaScript / Postman / Newman, etc.) and building functional pet projects to put my skills into practice.
