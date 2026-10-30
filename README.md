@@ -43,9 +43,9 @@
 ## <p align="center">🛡️ software testing projects<p>
 
 ### 💎 project 1: [API Automation Framework: Security Audit, Stress & Logic | Oort Depot](https://github.com/Bel-test-QA/api-automation-oort-depot.git)
-<h6>Comprehensive automated testing system for a large-scale backend application (Warehouse Management System).</h6>
+<h6>Comprehensive test automation framework for a Transportation Management System (TMS), focused on business logic, security, and performance resilience.</h6>
 <details>
-<summary><b>⚡️ core architecture & advanced scripting scope</b></summary>
+<summary><b>⚡️ Architecture & Features</b></summary>
 <br>
   
 *   **Framework Architecture:** Full **Zero Hardcode** design with dynamic extraction and token/ID propagation across the entire request chain. Integrated Postman Mock Server to simulate external integrations.
