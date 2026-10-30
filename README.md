@@ -12,7 +12,7 @@
   <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Automation-API-blue" width="104" height="19">
 </a>
 <a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;ui-manual-qa-globbing" target="_blank">
-  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Manual-UI-orange" width="82" height="19">
+  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Manual-UI-blue" width="82" height="19">
 </a>
 </p>  
 
