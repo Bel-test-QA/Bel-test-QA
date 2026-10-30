@@ -8,8 +8,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=58AAC4&center=true&vCenter=true&repeat=false&width=600&height=45&lines=Anastasia+Belova+%7C+QA+Engineer" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<img src="https://shields.io/badge/Automation_progress-45%25-blue" width="165" height=20>
-  <img src="https://shields.io/badge/Manual_progress-100%25-violet" width="150" height=20>
+<a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;api-automation-oort-depot" target="_blank">
+  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Automation-API-blue" width="104" height="19">
+</a>
+<a href="https:&#47;&#47;github.com&#47;Bel-test-QA&#47;ui-manual-qa-globbing" target="_blank">
+  <img src="https:&#47;&#47;img.shields.io&#47;badge&#47;Manual-UI-orange" width="82" height="19">
+</a>
 </p>  
 
 <h6 aligh=left>Привет! Я сертифицированный специалист по ручному тестированию (Manual QA Engineer). Моя главная цель — развивать навыки в автоматизации тестирования API и Backend, чтобы переложить рутину на скрипты, ускорить регрессионное тестирование и освободить время для поиска сложных логических багов. Сейчас я активно изучаю инструменты автоматизации (JavaScript / Postman / Newman и др.) и создаю функциональные пет-проекты для проверки своих навыков на практике.<br>
