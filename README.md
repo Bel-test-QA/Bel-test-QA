@@ -13,7 +13,7 @@
 </a>
 </p>  
 
-<h6 aligh=left>Нi! I am a certified Manual QA Engineer. My main goal is to develop my skills in API and Backend automation testing to offload routine tasks to scripts, speed up regression testing, and free up time for finding complex logical bugs. Currently, I am actively learning automation tools (JavaScript / Postman / Newman, etc.) and building functional pet projects to put my skills into practice.
+<h6 aligh=left>Нi! I'm a QA Engineer with hands-on experience in manual web testing and REST API test automation (JavaScript, Postman, Newman). I focus on analyzing requirements from API technical documentation, structuring clear test documentation (checklists, test cases, BDD scenarios), and automating regression checks in CI/CD to speed up regression and focus on finding complex logic bugs.<br>
 </h6>
 
 ## <p align="center">🧠 my tech stack</p> 
